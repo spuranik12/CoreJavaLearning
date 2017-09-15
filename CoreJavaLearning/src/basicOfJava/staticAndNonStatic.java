@@ -20,6 +20,7 @@ public class staticAndNonStatic
 		// We can access static & non static members for non-static method as shown in test2() method.
 		
 		int a = i; //accessible with non static variable
+		System.out.println("test-----");
 		
 		int k = j; //accessible with static variable
 		
